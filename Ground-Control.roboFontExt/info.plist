@@ -14,11 +14,11 @@
 		</dict>
 	</array>
 	<key>developer</key>
-	<string>Loic Sander</string>
+	<string>Loïc Sander</string>
 	<key>developerURL</key>
-	<string>http://www.akalollip.com</string>
+	<string>http://github.com/loicsander</string>
 	<key>html</key>
-	<false/>
+	<true/>
 	<key>launchAtStartUp</key>
 	<integer>0</integer>
 	<key>mainScript</key>
