@@ -25,6 +25,10 @@
 	<string></string>
 	<key>name</key>
 	<string>Ground Control</string>
+	<key>requiresVersionMajor</key>
+	<string>3</string>
+	<key>requiresVersionMinor</key>
+	<string>0</string>
 	<key>timeStamp</key>
 	<real>1547637034.291293</real>
 	<key>version</key>
